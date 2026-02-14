@@ -40,8 +40,8 @@ newsProject/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd newsProject
+   git clone https://github.com/git-adventures/django-admin.git
+   cd django-admin
    ```
 
 2. Install dependencies:
@@ -79,16 +79,11 @@ newsProject/
 </details>
 
 <details>
-<summary>Admin Panel</summary>
-<img src="images/django2.png" alt="Admin Panel" width="700"/>
+<summary>Admin Login</summary>
+<img src="images/django2.png" alt="Admin Login" width="700"/>
 </details>
 
 <details>
 <summary>Admin - Post List</summary>
 <img src="images/django3.png" alt="Admin - Post List" width="700"/>
-</details>
-
-<details>
-<summary>Admin - Add Post</summary>
-<img src="images/django4.png" alt="Admin - Add Post" width="700"/>
 </details>
